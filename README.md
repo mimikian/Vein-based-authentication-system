@@ -17,9 +17,9 @@ and computer vision.
 
 The system consisted of four main stages which are:
 
-- Image Acquisition which done by utilizing Optris PI 450 thermal camera to capture the veins. 
+- Image Acquisition: Is done by utilizing Optris PI 450 thermal camera to capture the veins. 
 
-- Image Enhancement: by using several noise reduction filters like Gaussian filter and mean filter. 
+- Image Enhancement: By using several noise reduction filters like Gaussian filter and mean filter. 
 
 - Image Segmentation: Extracting the skeleton of the veins using Morphological Transformations like Dilation and Erosion. 
 
