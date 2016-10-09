@@ -45,5 +45,5 @@ and finally the veins are extracted.
 
 ##Note
 The project is still under research. For more information you can check:
-[VID Paper](https://raw.githubusercontent.com/mimikian/Vein-based-authentication-system/master/paper/VID.pdf)
+[VID Paper](paper/VID.pdf)
 
